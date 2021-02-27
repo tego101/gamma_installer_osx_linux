@@ -1,5 +1,4 @@
 import os, subprocess, time
-from ppadb.client import Client as AdbClient
 
 os.system('clear')
 print('\n')
